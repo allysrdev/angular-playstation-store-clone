@@ -81,4 +81,4 @@ Durante o desenvolvimento deste projeto, pratiquei:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Ally Santana**  
-🔗 [LinkedIn](https://www.linkedin.com/) | [Portfólio](https://seu-portfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/)

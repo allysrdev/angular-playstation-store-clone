@@ -27,13 +27,13 @@ O objetivo foi praticar conceitos fundamentais do framework, incluindo **compone
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/ps-store-clone.git
+   git clone https://github.com/allysrdev/angular-playstation-store-clone.git
    ```
 
 2. Acesse a pasta do projeto:
 
    ```bash
-   cd ps-store-clone
+   cd angular-playstation-store-clone
    ```
 
 3. Instale as dependências:

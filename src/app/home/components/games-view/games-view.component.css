@@ -1,0 +1,13 @@
+.container__games-view {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  gap: 20px;
+}
+
+.games-view__gallery {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}

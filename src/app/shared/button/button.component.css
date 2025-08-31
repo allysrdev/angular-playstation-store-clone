@@ -1,0 +1,8 @@
+.app__button {
+  padding: 4px;
+  background-color: #0070d1;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}

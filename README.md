@@ -1,27 +1,84 @@
-# AngularPlaystationStoreClone
+# 🎮 Clone da Página Home da PlayStation Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+Este projeto é um **clone da página inicial da PlayStation Store**, desenvolvido com **Angular**.  
+O objetivo foi praticar conceitos fundamentais do framework, incluindo **componentização, diretivas, data binding e estilização com CSS**.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Tecnologias Utilizadas
 
-## Code scaffolding
+- [Angular](https://angular.io/) - Framework principal
+- [TypeScript](https://www.typescriptlang.org/) - Linguagem utilizada
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Estrutura da aplicação
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Estilização da interface
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 📸 Prévia do Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p align="center">
+  <img src="./src/assets/image.png" alt="Preview do projeto" width="800">  
+</p>
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ⚙️ Como Executar o Projeto
 
-## Running end-to-end tests
+1. Clone este repositório:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   git clone https://github.com/seu-usuario/ps-store-clone.git
+   ```
 
-## Further help
+2. Acesse a pasta do projeto:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   cd ps-store-clone
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Execute o servidor de desenvolvimento:
+
+   ```bash
+   ng serve
+   ```
+
+5. Abra no navegador:
+
+   ```
+   http://localhost:4200/
+   ```
+
+---
+
+## 📝 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+- Estruturação de um projeto Angular
+- Criação e reutilização de componentes
+- Uso de **@Input e @Output**
+- Estilização de componentes com CSS
+- Diretivas estruturais (*ngFor,*ngIf)
+
+---
+
+## 📌 Status do Projeto
+
+✅ Em andamento — ainda pretendo melhorar:
+
+- Responsividade da página
+- Organização dos dados em arrays/JSON
+- Implementar simulação de API para carregar os jogos
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Ally Santana**  
+🔗 [LinkedIn](https://www.linkedin.com/) | [Portfólio](https://seu-portfolio.com)

@@ -1,0 +1,35 @@
+.container__secondary-menu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.secondary-menu__img > img {
+  width: 150px;
+  height: 30px;
+}
+
+.secondary-menu__nav {
+  margin: 0 500px;
+}
+
+.secondary-menu__nav > ul {
+  display: flex;
+  gap: 25px;
+}
+
+.secondary-menu__nav > ul > li {
+  list-style: none;
+  font-weight: bold;
+  font-size: large;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.secondary-menu__nav > ul > li:hover {
+  background-color: rgb(214, 212, 212);
+  cursor: pointer;
+}

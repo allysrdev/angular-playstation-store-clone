@@ -1,0 +1,18 @@
+.container__footer {
+  padding: 60px;
+  background-color: #003697;
+  color: white;
+}
+
+.footer__info {
+  margin: 0 auto;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer__info a {
+  color: white;
+}
